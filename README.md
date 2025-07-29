@@ -1,2 +1,1 @@
-# sayhi
-Supporting data for collaborative modeling-based evaluation of groundwater sustainability
+# Supporting data for collaborative modeling-based evaluation of groundwater sustainability
